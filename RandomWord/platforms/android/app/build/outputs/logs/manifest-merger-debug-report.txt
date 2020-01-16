@@ -52,6 +52,8 @@ ADDED from /Users/haizhi/personal/cordova/RandomWord/platforms/android/app/src/m
 		ADDED from /Users/haizhi/personal/cordova/RandomWord/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
 	android:icon
 		ADDED from /Users/haizhi/personal/cordova/RandomWord/platforms/android/app/src/main/AndroidManifest.xml:5:53-87
+	android:usesCleartextTraffic
+		ADDED from /Users/haizhi/personal/cordova/RandomWord/platforms/android/app/src/main/AndroidManifest.xml:5:148-183
 activity#io.cordova.hellocordova.MainActivity
 ADDED from /Users/haizhi/personal/cordova/RandomWord/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
 	android:label

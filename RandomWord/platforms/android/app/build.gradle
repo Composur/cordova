@@ -204,7 +204,7 @@ android {
     }
 
     compileSdkVersion cdvCompileSdkVersion
-    buildToolsVersion cdvBuildToolsVersion
+    buildToolsVersion '29.0.2'
 
     // This code exists for Crosswalk and other Native APIs.
     // By default, we multiply the existing version code in the
